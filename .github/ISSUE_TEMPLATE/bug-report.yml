@@ -15,6 +15,7 @@ body:
         - Any relevant context or configuration
         - Stacktrace or error message if applicable
     validations:
+ - What actually happened
       required: true
   - type: textarea
     id: reproduction
